@@ -1,13 +1,13 @@
 ## main page
 
-<img src="./images/스크린샷 2025-01-02 오후 7.02.07.png" width="400" height="400"/>
+<p align="center"><img src="./images/스크린샷 2025-01-02 오후 7.02.07.png" width="500" height="500"/></p>
 
 ---
 
 ## new words page
 
-<img src="./images/스크린샷 2025-01-02 오후 7.04.00.png" width="400" height="400"/>
+<p align="center"><img src="./images/스크린샷 2025-01-02 오후 7.04.00.png" width="500" height="500"/></p>
 
 ## index
 
-<img src="./images/스크린샷 2025-01-02 오후 7.04.48.png" width="400" height="400"/>
+<p align="center"><img src="./images/스크린샷 2025-01-02 오후 7.04.48.png" width="500" height="500"/></p>
